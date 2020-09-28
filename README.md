@@ -1,3 +1,3 @@
 # findPatternInFiles
 
-![](https://raw.githubusercontent.com/stla/shinyMonacoEditor/master/inst/findPatternInFiles.gif)
+![](https://raw.githubusercontent.com/stla/findPatternInFiles/master/inst/findPatternInFiles.gif)
